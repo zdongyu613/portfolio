@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Dongyu Zhu"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [author]
+  name = "Dongyu Zhu"
+#   image = "img/blowfish_logo.png"
+  headline = ""
+  # bio = "A little bit about you"
+  links = [
+    { email = "mailto:zdongyu@umich.edu" },
+    { github = "https://github.com/zdongyu613" },
+  ]
