@@ -11,19 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Works"
- pageRef = "works"
+ name = "Designs"
+ pageRef = "designs"
  weight = 10
 
 [[main]]
- name = "Education"
- pageRef = "education"
+ name = "Experience"
+ pageRef = "experience"
  weight = 20
 
-[[main]]
- name = "Experiences"
- pageRef = "experiences"
- weight = 30
+# [[main]]
+#  name = "Experiences"
+#  pageRef = "experiences"
+#  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"
