@@ -8,15 +8,15 @@ title = "Dongyu Zhu"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo-square.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
   name = "Dongyu Zhu"
-#   image = "img/blowfish_logo.png"
-  headline = ""
+  image = "img/logo-square.png"
+  headline = "Designer"
   # bio = "A little bit about you"
   links = [
     { email = "mailto:zdongyu@umich.edu" },
