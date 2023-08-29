@@ -152,7 +152,7 @@ When you’re worried about how to use up food that is about to expire, explore 
 
 ## Video
 
-{{< video src="/videos/Frij_Final_Video.mp4" type="video/mp4">}}
+{{< youtube -lfLd0s5Hsk >}}
 
 ---
 

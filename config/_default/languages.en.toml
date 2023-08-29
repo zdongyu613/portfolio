@@ -16,8 +16,8 @@ title = "Dongyu Zhu"
  [author]
   name = "Dongyu Zhu"
   image = "img/logo-square.png"
-  headline = "Designer"
-  # bio = "A little bit about you"
+  headline = "UX Designer / Researcher"
+  # bio = "a little about you"
   links = [
     { email = "mailto:zdongyu@umich.edu" },
     { github = "https://github.com/zdongyu613" },
