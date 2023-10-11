@@ -55,6 +55,6 @@ Users' findings from monitoring their cats or using Kattiepedia are recorded in 
 
 ## Appendix
 ### [Poster](https://drive.google.com/file/d/12E2lFeRw7365tFMpejlUAcjP5HVcB8ko/view?usp=share_link)
-### [Prototype](https://www.figma.com/file/OnSgBwQpjfXfD2d8whIekM/Lo-Fi-Prototype?node-id=211%3A16522&t=gdu8cFOagcYwmFXI-1)
+### [Prototype](https://www.figma.com/file/5BiJDiz9P0PJ3xJNIpqBqe/Purrrfect-Prototype?type=design&node-id=211%3A15166&mode=design&t=rv5hXwKljOAKKiP0-1)
 
 
