@@ -24,7 +24,6 @@ draft: false
 2022 - 2023
 <h4>Related Projects:</h4>
 <h6><a href="https://gkb.dcmb.med.umich.edu/">GenomicKB</a></h6>
-<h6><a href="https://gklb.dcmb.med.umich.edu/">GLKB</a></h6>
 
 
 {{< /timelineItem >}}
