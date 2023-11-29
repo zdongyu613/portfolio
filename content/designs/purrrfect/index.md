@@ -5,7 +5,7 @@ draft: false
 categories:
 - "School Project"
 ---
-##### A companion app for new cat parents to help them know their cat better.
+# Purrrfect - A companion app for new cat parents to help them know their cat better.
 ![title](img/articles/purrrfect/p-1.png)
 ## Original Idea
 Our design set out to address difficulties encountered by pet parents in general. And our research brought us to the discovery that pet parents experience the most difficulties and expend the most energy and effort with their pets during the initial stages –  because they are still unfamiliar with their pets personalities and individual traits, they struggle to decipher their unexpected behavior and figure out what to do in response.
